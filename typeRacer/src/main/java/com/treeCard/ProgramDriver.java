@@ -13,7 +13,7 @@ import org.bson.Document;
  */
 public class ProgramDriver {
     public static void main(String[] args) {
-        MongoClientURI clientUri = new MongoClientURI("mongodb://nick:Admin101@ds015902.mlab.com:15902/typeracer");
+        MongoClientURI clientUri = new MongoClientURI("mongodb://nick:Admin101@ds011943.mlab.com:11943/typeracer");
         MongoClient client = new MongoClient(clientUri);
 
         MongoDatabase db = client.getDatabase("typeracer");

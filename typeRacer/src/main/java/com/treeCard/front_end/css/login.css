@@ -1,0 +1,15 @@
+input {
+    margin-top: 20px;
+}
+
+a {
+    font-weight: bold;
+}
+
+label {
+    font-size: large;
+}
+
+h1 {
+    color: darkslategray;
+}
