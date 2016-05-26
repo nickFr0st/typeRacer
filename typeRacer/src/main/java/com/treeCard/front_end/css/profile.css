@@ -1,4 +1,19 @@
 #title {
-    color: darkslategray;
-    font-weight: bold;
+    color: white;
+    font-size: x-large;
+}
+
+.navbar-inverse {
+    background-color: darkslategray;
+    border-color: #E7E7E7;
+}
+
+.username {
+    font-weight: lighter;
+    margin-top: 15px;
+    margin-right: 100px;
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+    color: rgb(226, 151, 28);
 }
